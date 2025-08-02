@@ -2,7 +2,7 @@
 
 ### A System for Resonance-Based Temporal Threading through Attentive Pattern Emergence, Memory Recognition, and Future Weaving.
 
-We propose a novel cognitive architecture that reframes intelligence not as continuous computation or optimization, but as a meditative process of resonance recognition and thread selection. Inspired by the yogic principle of 'dhyana attentive stillness', this system generates meaning and future trajectories through a recursive interplay between the present image, dynamic memory alignment, and intent-driven resonance shaping.
+We propose a contemplative cognitive architecture that reframes intelligence not as continuous computation or optimization, but as a meditative process of resonance recognition and thread selection. Inspired by the yogic principle of 'dhyana attentive stillness', this system generates meaning and future trajectories through a recursive interplay between the present image, dynamic memory alignment, and intent-driven resonance shaping.
 
 Rather than streaming input through endless prediction cycles, the system identifies event clusters or significant moments, constructs a high-dimensional image of the now, and then enters a phase of attentive processing. This phase involves:
 
