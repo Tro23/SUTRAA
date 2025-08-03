@@ -1,4 +1,4 @@
-# SUTRA (System for Unified Temporal Resonance Alignment)
+# SŪTRAA (System for Unified Temporal Resonance Alignment Attention)
 
 ### A System for Resonance-Based Temporal Threading through Attentive Pattern Emergence, Memory Recognition, and Future Weaving.
 
