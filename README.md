@@ -21,7 +21,7 @@ This architecture allows the system to exhibit qualities of temporal fluidity, s
 ### SYSTEM DESIGN STEPS (Outline)
 - Moment Image Constructor
     - Input: Series of contextual events/data
-    - Output: Latent representation ("image of the now")
+    - Output: Latent representation ("prolonged image of the now")
     - Possible tech: LLM window summarization → pooled attention → PCA/t-SNE manifold position → moment embedding
 
 - Resonance Field Activator
